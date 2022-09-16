@@ -1,0 +1,7 @@
+Entidades\Categoria.class
+Entidades\DetalleFactura.class
+Entidades\Domicilio.class
+Entidades\Factura.class
+main\PersistenciaApp.class
+Entidades\Articulo.class
+Entidades\Cliente.class
